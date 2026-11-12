@@ -1,3 +1,5 @@
+
+FILE.parent.mkdir(parents=True, exist_ok=True)
 """Experimental public-profile XP snapshots; no credentials required."""
 import json, datetime, pathlib, urllib.request, urllib.parse, time
 from zoneinfo import ZoneInfo
