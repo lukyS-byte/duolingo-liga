@@ -74,6 +74,31 @@
           "totalXp": 4272
         }
       ]
+    },
+    {
+      "at": "2026-11-12T22:41:47+00:00",
+      "players": [
+        {
+          "username": "001630.86AVSAOL",
+          "totalXp": 2208
+        },
+        {
+          "username": "DITAKADLEC1",
+          "totalXp": 4728
+        },
+        {
+          "username": "NATLIESCHN",
+          "totalXp": 4563
+        },
+        {
+          "username": "KRASKA235",
+          "totalXp": 3393
+        },
+        {
+          "username": "001827.716R1RVU",
+          "totalXp": 4302
+        }
+      ]
     }
   ]
 }
